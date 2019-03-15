@@ -2,6 +2,7 @@
 # Using this program as a ‘prank’, ‘joke’, ’practical joke’, is not condoned.
 # This program WILL spam the target email with the number of emails you specify.
 # The email you input will be shown to the target email.
+# Be sure to read README.md
 
 
 # Imports module to test connection and send email
